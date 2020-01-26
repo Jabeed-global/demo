@@ -1,14 +1,32 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "AreaId": 15,
+        "AreaName": "Sitra",
+        "Status": "active",
+        "CreatedOn": "2020-01-13T11:23:50"
+    },
+    {
+        "AreaId": 16,
+        "AreaName": "Manama",
+        "Status": "active",
+        "CreatedOn": "2020-01-13T11:23:54"
+    },
+    {
+        "AreaId": 17,
+        "AreaName": "Sanabis",
+        "Status": "active",
+        "CreatedOn": "2020-01-13T11:24:06"
+    },
+    {
+        "AreaId": 18,
+        "AreaName": "Seef",
+        "Status": "active",
+        "CreatedOn": "2020-01-13T11:24:13"
+    },
+    {
+        "AreaId": 19,
+        "AreaName": "Muharraq",
+        "Status": "active",
+        "CreatedOn": "2020-01-13T11:24:18"
+    }
+]
